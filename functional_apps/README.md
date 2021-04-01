@@ -10,3 +10,12 @@ AM and PM compatible.
 Packages:
 datetime
 pyglet
+
+
+K.I.S.S. #2
+
+A simple calculator with '+', '-', '*', '/', & 'sqrt' capabilities.
+
+Packages:
+math
+PyQt5 
